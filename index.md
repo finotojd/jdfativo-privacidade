@@ -1,18 +1,18 @@
 ---
-title: Política de Privacidade — JDF Ativo
+title: Política de Privacidade — Três Potes
 ---
 
-# Política de Privacidade — JDF Ativo
+# Política de Privacidade — Três Potes
 
-**Última atualização:** 13 de outubro de 2026
+**Última atualização:** 15 de outubro de 2026
 
-O JDF Ativo é um app para iPhone que organiza investimentos pessoais em três potes (Emergência, Liberdade e Desejo). Esta política explica quais dados o app usa, onde eles ficam e quais são os seus direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, LGPD).
+O Três Potes é um app para iPhone que organiza investimentos pessoais em três potes (Emergência, Liberdade e Desejo). Esta política explica quais dados o app usa, onde eles ficam e quais são os seus direitos, conforme a Lei Geral de Proteção de Dados (Lei nº 13.709/2018, LGPD).
 
-**Resumo:** o JDF Ativo não tem servidor próprio, não coleta dados para si, não exibe anúncios e não rastreia você. Seus dados financeiros ficam no seu iPhone e no seu iCloud.
+**Resumo:** o Três Potes não tem servidor próprio, não coleta dados para si, não exibe anúncios e não rastreia você. Seus dados financeiros ficam no seu iPhone e no seu iCloud.
 
 ## 1. Quem é o responsável
 
-O JDF Ativo é desenvolvido por **Joao Donizeti Finoto**, pessoa física, responsável pelo tratamento descrito nesta política.
+O Três Potes é desenvolvido por **Joao Donizeti Finoto**, pessoa física, responsável pelo tratamento descrito nesta política.
 Contato: **finotojd@gmail.com**
 
 ## 2. Dados que você cadastra
@@ -54,6 +54,7 @@ Cada serviço tem a própria política de privacidade.
 - **Face ID / Touch ID:** usado só para desbloquear o app. A verificação é feita pelo iOS; o app não tem acesso aos seus dados biométricos.
 - **Notificações:** são lembretes **locais**, criados e exibidos pelo próprio iPhone. Nenhum servidor envia notificações ao app.
 - **Widget:** o widget lê um resumo dos seus dados gravado no próprio aparelho. Com o iPhone bloqueado, os valores ficam ocultos.
+- **Relatórios de diagnóstico:** o iOS entrega ao app relatórios de falhas, travamentos e desempenho. Eles ficam só no seu iPhone, não contêm dados da sua carteira e só saem do aparelho se você os compartilhar, em Ajustes › Dados › Diagnóstico.
 
 ## 7. Exportação e backup
 
@@ -63,17 +64,18 @@ Você pode exportar sua carteira em CSV ou em um backup .zip. Esses arquivos sã
 
 Como os dados ficam sob o seu controle, você exerce a maior parte dos direitos diretamente:
 
-- **Acesso e portabilidade:** exporte seus dados em Ajustes › Exportação.
+- **Acesso e portabilidade:** exporte seus dados em Ajustes › Dados › Exportar Dados.
 - **Correção:** edite qualquer informação no próprio app.
 - **Exclusão:**
-  1. Para apagar do iCloud: Ajustes do iPhone › [seu nome] › iCloud › Gerenciar Armazenamento › JDF Ativo › Apagar Dados.
-  2. Para apagar do aparelho: remova o app do iPhone.
+  1. Pelo próprio app: Ajustes › Dados › Apagar todos os dados. Apaga a carteira do aparelho e do iCloud, além dos tokens, das preferências, das notificações agendadas, dos dados do widget e dos relatórios de diagnóstico.
+  2. Para apagar do iCloud pelo iPhone: Ajustes do iPhone › [seu nome] › iCloud › Gerenciar Armazenamento › Três Potes › Apagar Dados.
+  3. Para apagar do aparelho: remova o app do iPhone.
 
 Para dúvidas ou solicitações, escreva para **finotojd@gmail.com**.
 
 ## 9. Crianças
 
-O JDF Ativo não se destina a menores de 18 anos.
+O Três Potes não se destina a menores de 18 anos.
 
 ## 10. Alterações desta política
 
